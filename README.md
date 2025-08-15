@@ -30,11 +30,11 @@ I am a DevOps and platform engineering enthusiast interested in personal growth 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/tw0-face/mo-corp" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tw0-face&repo=mo-corp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tw0-face/yava" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tw0-face&repo=yava&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/tw0-face/mo-corp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tw0-face&repo=mo-corp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tw0-face/yava" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tw0-face&repo=yava&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/tw0-face/petclinic" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tw0-face&repo=petclinic&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tw0-face/matches" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tw0-face&repo=matches&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/tw0-face/petclinic" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tw0-face&repo=petclinic&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tw0-face/matches" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tw0-face&repo=matches&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
